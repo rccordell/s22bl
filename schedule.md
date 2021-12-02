@@ -183,6 +183,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from _Early African American Print Culture_ (2012), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt3fhdr3.12)
 + Whitney Anne Trettien, "A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica" (2013), [external link](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) 
 + Élika Ortega, "Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen (2017), [external link](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/)
++ Emily C. Friedman, "Amateur Manuscript Fiction in the Archives: An Introduction" (2020), GET LINK
 
 ### Week 10 | April 4 | Circulation
 

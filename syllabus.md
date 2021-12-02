@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Syllabus
+title: BookLab Syllabus
 ---
 
-# Book Lab: Print to Programming
+## BookLab: Print to Programming
 
-+ Course Number IS/ENGL583 BL
++ Course Number: IS583 BL / ENGL583 BL
 + Spring 2022
 + Classroom: School of Library and Information Sciences, 501 East Daniel Street, Room 46. **Please check the syllabus each week, however, as we are often on location elsewhere on campus.**
 + Class Time: Mondays 1-3:50pm
@@ -30,42 +30,11 @@ Through our discussions we will develop greater capacities to critically read ma
 
 ### Acknowledgements
 
-In developing this course I learned from many people, but I particularly thank [Whitney Trettien](http://whitneyannetrettien.com/), [Anastasia Salter](http://selfloud.net/), [Matthew ](https://m.wordpress.com/), and [Kari Kraus](http://www.karikraus.com/) for graduate syllabi from which I drew particular inspiration. 
+In developing this course I learned from many people, but I particularly thank [Whitney Trettien](http://whitneyannetrettien.com/), [Matthew Kirschenbaum](https://mkirschenbaum.wordpress.com/), and [Kari Kraus](http://www.karikraus.com/) for graduate syllabi from which I drew particular inspiration. I thank Matthew and Kari, in particular, for the [Book Lab moniker](https://english.umd.edu/research-innovation/booklab), which they graciously agreed to share.
 
 ### Pre- and Co-requisites
 
 BookLab presumes no prior experience and thus is well suited for all students interested in book history, digital humanities, or adjacent fields. 
-
-## Course Context
-
-This course meets a number of learning outcomes connected to program objectives for the the MS/LIS and PhD in Information Sciences programs, which in turn connect to larger iSchool and University of Illinois learning goals.
-
-### Student Learning Objectives or Outcomes
-
-Upon successful completion of the course, you will be able to:
-
-ADD THESE HERE
-
-### Program Learning Outcomes
-
-+ Use evidence to help address information problems, meet information needs, and create relationships in their institutions, communities, profession, and the world. (MS/LIS)
-+ Compare and critique contemporary information practices, structures, and standards in relation to historical and global alternatives. (MS/LIS)
-+ Discover how complex, interdependent global systems—including informational, social, and technical —affect and are affected by the characteristics and behavior of individuals, communities, and institutions. (PhD)
-+ Acquire broad and deep expertise, including knowledge and skills, acrosssubfields of information science. This includes the ability to engage with, plan, and conduct interdisciplinary research. (PhD)
-
-### iSchool Goal
-
-This course meets the following goal for the iSchool:
-
-+ Maintain global leadership in education for the information professions
-
-### University of Illinois Campus-Wide Learning Goals
-
-This course meets the following goals set by the University of Illinois:
-
-+ 1. Intellectual Reasoning and Knowledge
-+ 2. Creative Inquiry and Discovery
-+ 4. Social Awareness and Cultural Understanding
 
 ## Course Materials
 
