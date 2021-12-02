@@ -1,19 +1,20 @@
-<li>
-  <a href="{{ post.url | absolute_url }}" class="post-link">
-    <div class="post-link__heading">
-      {% unless post.title == "" %}
-          <h1 class="post-link__title">      
-            {{ post.title }}
-          </h1>
-      {% else %}
-        {% include post-excerpt.html %}
-      {% endunless %}
-      {% if post.title != "" and site.show_excerpts == true %}
-        {% include post-excerpt.html %}
-      {% endif %}
-    </div>
-    <span class="post-date">
-      {{ post.date | date: "%b %-d, '%y" }}
-    </span>
-  </a>
-</li>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2113">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    span.s1 {text-decoration: underline ; font-kerning: none}
+    span.s2 {font: 24.0px Times; text-decoration: underline ; font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{% unless post.title == "" %}</a></span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D"><b>{{ post.title }}<span class="Apple-converted-space"> </span></b><span class="s2"><b></b></span></a></span></h1>
+<p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{% else %} {% include post-excerpt.html %} {% endunless %} {% if post.title != "" and site.show_excerpts == true %} {% include post-excerpt.html %} {% endif %}<span class="Apple-converted-space"> </span></a></span></p>
+</body>
+</html>
