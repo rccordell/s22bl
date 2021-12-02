@@ -16,5 +16,6 @@
 <p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{% unless post.title == "" %}</a></span></p>
 <h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D"><b>{{ post.title }}<span class="Apple-converted-space"> </span></b><span class="s2"><b></b></span></a></span></h1>
 <p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{% else %} {% include post-excerpt.html %} {% endunless %} {% if post.title != "" and site.show_excerpts == true %} {% include post-excerpt.html %} {% endif %}<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{{ post.date | date: "%b %-d, '%y" }}<span class="Apple-converted-space"> </span></a></span></p>
 </body>
 </html>
