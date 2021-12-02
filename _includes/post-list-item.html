@@ -7,15 +7,29 @@
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2113">
   <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    span.s1 {text-decoration: underline ; font-kerning: none}
-    span.s2 {font: 24.0px Times; text-decoration: underline ; font-kerning: none}
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 13.0px Courier; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{% unless post.title == "" %}</a></span></p>
-<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D"><b>{{ post.title }}<span class="Apple-converted-space"> </span></b><span class="s2"><b></b></span></a></span></h1>
-<p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{% else %} {% include post-excerpt.html %} {% endunless %} {% if post.title != "" and site.show_excerpts == true %} {% include post-excerpt.html %} {% endif %}<span class="Apple-converted-space"> </span></a></span></p>
-<p class="p1"><span class="s1"><a href="file:///Users/rcc/Dropbox/Teaching/BookLab-grad/s22bl/_includes/%7B%7B%20post.url%20%7C%20absolute_url%20%7D%7D">{{ post.date | date: "%b %-d, '%y" }}<span class="Apple-converted-space"> </span></a></span></p>
+<p class="p1"><span class="s1">&lt;li&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;a href="{{ post.url | absolute_url }}" class="post-link"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;div class="post-link__heading"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% unless post.title == "" %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;h1 class="post-link__title"&gt; <span class="Apple-converted-space">     </span></span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>{{ post.title }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>&lt;/h1&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% else %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{% include post-excerpt.html %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% endunless %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% if post.title != "" and site.show_excerpts == true %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>{% include post-excerpt.html %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{% endif %}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/div&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;span class="post-date"&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{{ post.date | date: "%b %-d, '%y" }}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>&lt;/span&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>&lt;/a&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/li&gt;</span></p>
 </body>
 </html>
