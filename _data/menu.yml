@@ -1,8 +1,8 @@
-- title: About
-  url: /about.html
+- title: Syllabus
+  url: /assets/Cordell-BookLab-Syllabus.pdf
 
 - title: Source
-  url: https://github.com/patdryburgh/hitchens
+  url: https://github.com/rccordell/s22bl
 
-- title: Designer
-  url: http://patdryburgh.com
+- title: Instructor
+  url: https://ryancordell.org
