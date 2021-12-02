@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "BookLab: Print to Programming"
 email: rcordell@illinois.edu
-description: >- An applied, comparative history of new media from the hand-press period to the present in the School of Information Sciences at the University of Illinois Urbana-Champaign.
+description: An applied, comparative history of new media from the hand-press period to the present in the School of Information Sciences at the University of Illinois Urbana-Champaign.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://s22bl.ryancordell.org" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/lighttype512.png
