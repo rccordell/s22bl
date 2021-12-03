@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BookLab Syllabus
+title: Syllabus
 ---
 
 ## BookLab: Print to Programming
