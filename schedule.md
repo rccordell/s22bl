@@ -11,8 +11,6 @@ In the week you lead class you and your partners should prepare all of the core 
 
 ### Week 1 | January 24 | Medium
 
-#### Book Lab 1: Well That Was Illuminating
-
 #### Core
 
 + Marshall McLuhan, “The Medium is the Message” (1964), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.3366/j.ctvxcrv1h.6)
@@ -27,9 +25,9 @@ In the week you lead class you and your partners should prepare all of the core 
 + N. Katherine Hayles and Jessica Pressman, "Making, Critique: A Media Framework," introduction to _Comparative Textual Media_ (2013), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
 + Mark Alan Mattes, “Media” (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707746)
 
-### Week 2 | January 31 | Book
+#### Book Lab 1: Well That Was Illuminating
 
-#### Book Lab 2: Rarely Reading
+### Week 2 | January 31 | Book
 
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
@@ -46,12 +44,10 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
 + Browse [Kit Davey’s Instagram](https://www.instagram.com/daveykit/?hl=en)
 
+#### Book Lab 2: Rarely Reading
+
 
 ### Week 3 | February 7 | Page
-
-#### Book Lab 3: The Old Time Rag
-
-Due to materials, space, and time constraints, we cannot conduct Book Lab #3 during class. Instead, students will sign up for one of two sessions during the week held at [Fresh Press Paper](https://www.freshpress.studio/). We will end class early this week in recognition of the additional time ask of the lab. If the available time slots present an insurmountable barrier, please send me an email. 
 
 #### Core
 
@@ -65,12 +61,14 @@ Due to materials, space, and time constraints, we cannot conduct Book Lab #3 dur
 + Jonathan Senchyne, "The Whiteness of the Page: Racial Legibility and Authenticity" from _The Intimacy of Paper in Early and Nineteenth-Century American Literature_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/78288)
 + Sarah Werner, "Paper" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-34)
 
+#### Book Lab 3: The Old Time Rag
+
+Due to materials, space, and time constraints, we cannot conduct Book Lab #3 during class. Instead, students will sign up for one of two sessions during the week held at [Fresh Press Paper](https://www.freshpress.studio/). We will end class early this week in recognition of the additional time ask of the lab. If the available time slots present an insurmountable barrier, please send me an email. 
+
 
 ### Week 4 | February 14 (Valentines!) | Press
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
-
-#### Book Lab 4: Compose Yourself
 
 #### Core
 
@@ -86,11 +84,12 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + (Watch) Stephen Fry, *The Machine That Made Us* (2008), [external link](http://www.veoh.com/watch/v18714625RMJnrG8x) _Note: This video is about 1 hour long; plan accordingly!_
 + Marcy J. Dinius, "Press" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707752)
 
+#### Book Lab 4: Compose Yourself
+
+
 ### Week 5 | February 21 | Type
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
-
-#### Book Lab 5: A Welcome Imposition
 
 #### Core 
 
@@ -106,11 +105,12 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Miranda Marraccini, "'True Home Spirit': Paper Homes from the Victoria Press" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/698696)
 + Lisa Gitelman, A Short History of \_\_\_\_\_\_\_\_\_" from _Paper Knowledge: Toward a Media History of Documents_ (2014), GET LINK
 
+#### Book Lab 5: A Welcome Imposition
+
+
 ### Week 6 | February 28 | Text
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
-
-#### Book Lab 6: Pressing On
 
 #### Core
 
@@ -128,9 +128,10 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Martin Paul Eve, "'You have to keep track of your changes': The Version Variants and Publishing History of David Mitchell's Cloud Atlas" (2016), [external link](https://olh.openlibhums.org/article/10.16995/olh.82/)
 + Denis Tenen, "Computational Poetics: An Introduction" and "Metaphor Machines" from _Plain Text: The Poetics of Computation_ (2018), GET LINK
 
-### Week 7 | March 7 | Format
+#### Book Lab 6: Pressing On
 
-#### Book Lab 7: A Real Bind
+
+### Week 7 | March 7 | Format
 
 #### Core
 
@@ -147,13 +148,14 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Leah Price, “Interleaf: Please Lay Flat,” from _What We Talk About When We Talk About Books_ (2019), GET LINK
 + Sarah Werner, "Format" and "Binding" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-49) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-76)
 
+#### Book Lab 7: A Real Bind
+
+
 ### Spring Break!
 
 ### Week 8 | March 21 | Image
 
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
-
-#### Lab 8: It'll Last Longer
 
 #### Core
 
@@ -167,9 +169,10 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Juliet S. Sperling, "Image" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707742)
 + Joseph Viscomi, "Illuminated Printing" exhibit from the *William Blake Archive*, [external link](http://www.blakearchive.org/exhibit/illuminatedprinting)
 
-### Week 9 | March 28 | Multimodal
+#### Book Lab 8: It'll Last Longer
 
-#### Book Lab 9: I Feel Zine
+
+### Week 9 | March 28 | Multimodal
 
 #### Core
 
@@ -185,9 +188,10 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Élika Ortega, "Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen (2017), [external link](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/)
 + Emily C. Friedman, "Amateur Manuscript Fiction in the Archives: An Introduction" (2020), GET LINK
 
-### Week 10 | April 4 | Circulation
+#### Book Lab 9: I Feel Zine
 
-#### Book Lab 10: Aye, Robot
+
+### Week 10 | April 4 | Circulation
 
 #### Core
 
@@ -202,12 +206,12 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Meredith McGill, "A Matter of the Text" from _American Literature and the Culture of Reprinting, 1834-1853_ (2007), GET LINK
 + Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,", from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/82)
 
+#### Book Lab 10: Aye, Robot
+
 
 ### Week 11 | April 11 | Infrastructure
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
-
-#### Book Lab 11: Totally Fabricated
 
 #### Core
 
@@ -227,10 +231,11 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Matthew Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external link](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
 + Kaitlyn Tiffany, "You Probably Don’t Remember the Internet" (2021), [external link](https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/)
 
+#### Book Lab 11: Totally Fabricated
+
+
 
 ### Week 12 | April 18 | Code
-
-#### Book Lab 12: From a Distance
 
 #### Core
 
@@ -247,10 +252,11 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + Matthew Lavin, "Why Digital Humanists Should Emphasize Situated Data over Capta" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/2/000556/000556.html)
 
+#### Book Lab 12: From a Distance
+
+
 
 ### Week 13 | April 25 | Interface
-
-#### Book Lab 13: Thoroughly Entwined
 
 #### Core
 
@@ -265,12 +271,14 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Allie Alvis, "Volvelles: Moveable Book Machines!" (2020), [external link](https://www.youtube.com/watch?v=cdgFxuw5I8M&t=55s)
 
+#### Book Lab 13: Thoroughly Entwined
+
 
 
 ### Week 14 | May 2 | Memory
 
-#### Book Lab 14: Book Reports
-
 #### Core
 
 + Bethany Nowviskie, [“Change Us, Too”](http://nowviskie.org/2019/change-us-too/) (2019)
+
+#### Book Lab 14: Book Reports
