@@ -101,6 +101,7 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 #### Penumbra
 
 + Donald F. McKenzie, "Printers of the Mind: Some Notes on Bibliographical Theories and Printing-House Practices" (1969), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/40371475)
++ Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas , Casey Reas, Mark Sample, and Noah Vawter, "Introduction" to _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_ (2013), [external link](https://10print.org/10_PRINT_121114.pdf)
 + Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), GET LINK
 + Miranda Marraccini, "'True Home Spirit': Paper Homes from the Victoria Press" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/698696)
 + Lisa Gitelman, A Short History of \_\_\_\_\_\_\_\_\_" from _Paper Knowledge: Toward a Media History of Documents_ (2014), GET LINK
@@ -150,7 +151,6 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 #### Book Lab 7: A Real Bind
 
-
 ### Spring Break!
 
 ### Week 8 | March 21 | Image
@@ -172,7 +172,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 #### Book Lab 8: It'll Last Longer
 
 
-### Week 9 | March 28 | Multimodal
+### Week 9 | March 28 | Remediation
 
 #### Core
 
@@ -195,16 +195,18 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 #### Core
 
-+ Ryan Cordell and Abby Mullen, "'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/652267)
++ learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
++ browse the "Love Letter" to _Viral Texts_ (2016), [external link](https://loveletter.viraltexts.org/)
 + Catherine Coker, "The Margins of Print? Fan Fiction as Book History" (2017), [external link]((https://journal.transformativeworks.org/index.php/twc/article/view/1053) 
-+ Scott Weingart, "The Route of a Text Message" (2019), [external link](http://scottbot.net/the-route-of-a-text-message/)
-+ [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
++ browse the [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 
 #### Penumbra
 
 + Jim Ridolfo and Dànielle Nicole DeVoss, "Composing for Recomposition: Rhetorical Velocity and Delivery" (2009), [external link](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) *Note: make sure to read each of the sections in the table of contents at the top*
 + Meredith McGill, "A Matter of the Text" from _American Literature and the Culture of Reprinting, 1834-1853_ (2007), GET LINK
 + Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,", from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/82)
++ Ryan Cordell and Abby Mullen, "'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/652267)
+
 
 #### Book Lab 10: Aye, Robot
 
@@ -216,23 +218,18 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 #### Core
 
 + Melissa Terras and Julianne Nyhan, "Father Busa’s Female Punch Card Operatives," from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/57)
-+ James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
 + Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
-+ Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK
++ Scott Weingart, "The Route of a Text Message" (2019), [external link](http://scottbot.net/the-route-of-a-text-message/)
++ James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
 
 #### Penumbra
 
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013)
 + Sydney J. Shep, "Digital Materiality," from _A New Companion to Digital Humanities_ (2016), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/pdf/10.1002/9781118680605.ch22)
-+ Lauren J. Young, Daniel Peterschmidt, and Cat Frazier, “File Not Found Series” (2017)
-    * [“Ghosts in The Reels”](https://apps.sciencefriday.com/data/ghosts.html)
-    * [“The Librarians Saving the Internet”](https://apps.sciencefriday.com/data/librarians.html)
-    * [“Data Reawakening”](https://apps.sciencefriday.com/data/reawakening.html)
-+ Matthew Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external link](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
++ Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK
 + Kaitlyn Tiffany, "You Probably Don’t Remember the Internet" (2021), [external link](https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/)
 
 #### Book Lab 11: Totally Fabricated
-
 
 
 ### Week 12 | April 18 | Code
@@ -255,13 +252,12 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 #### Book Lab 12: From a Distance
 
 
-
 ### Week 13 | April 25 | Interface
 
 #### Core
 
 + Craig Mod, "Future Reading" (2015), [external link](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
-+ Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017)
++ Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017) _Note: this is a longer read so be prepared_
 + Amaranth Borsuk, The Book as Interface" from *The Book* (2018)
 + (read or listen), 99% Invisible, "The Universal Page" (2019), [external link](https://99percentinvisible.org/episode/the-universal-page/)
 
@@ -274,11 +270,16 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 #### Book Lab 13: Thoroughly Entwined
 
 
-
 ### Week 14 | May 2 | Memory
 
 #### Core
 
++ Lauren J. Young, Daniel Peterschmidt, and Cat Frazier, “File Not Found Series” (2017)
+    * [“Ghosts in The Reels”](https://apps.sciencefriday.com/data/ghosts.html)
+    * [“The Librarians Saving the Internet”](https://apps.sciencefriday.com/data/librarians.html)
+    * [“Data Reawakening”](https://apps.sciencefriday.com/data/reawakening.html)
 + Bethany Nowviskie, [“Change Us, Too”](http://nowviskie.org/2019/change-us-too/) (2019)
++ Matthew Kirschenbaum, “Bibliologistics: The Nature of Books Now, or A Memorable Fancy” (2020), [external link](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/)
+
 
 #### Book Lab 14: Book Reports
