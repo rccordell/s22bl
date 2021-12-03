@@ -17,7 +17,7 @@ title: BookLab Syllabus
 + Office: 614 Daniel St., Room 5147
 + Office Hours: TBD
 + Phone: 217-333-2622
-+ Email: [mailto:rcordell@illinois.edu](rcordell@illinois.edu)
++ Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu)
 + Preferred contact: 
 
 ## Course Description
@@ -108,7 +108,7 @@ You should name your files following the following convention:
 
 #### Flexibility
 
-BookLab is a challenging and full class. The semester will include fourteen weeks of readings and eleven or twelve humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete seven lab report entries. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. Your bibliographic annotation entries are due prior to the pertinent class, while lab report entries are due within two weeks of the pertinent lab session.
+BookLab is a challenging and full class. The semester will include 14 weeks of readings and ~12 humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete 7 lab report entries. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. Your bibliographic annotation entries are due prior to the pertinent class, while lab report entries are due within two weeks of the pertinent lab session.
 
 
 ### Incomplete grades
