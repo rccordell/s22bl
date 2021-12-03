@@ -227,9 +227,9 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 #### Core
 
 + Melissa Terras and Julianne Nyhan, "Father Busa’s Female Punch Card Operatives," from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/57)
-+ Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads" (2018), [library link](https://read-dukeupress-edu.proxy2.library.illinois.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death)
 + Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
++ Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 
 #### Penumbra
 
@@ -249,7 +249,7 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 + Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
 + Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
-+ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
++ Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads" (2018), [library link](https://read-dukeupress-edu.proxy2.library.illinois.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death)
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 
 #### Penumbra 
@@ -257,6 +257,7 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Roberto Busa, "Why Can a Computer Do So Little?" (1976), GET LINK
 + Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from _Reading Machines: Toward an Algorithmic Criticism_ (2011), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/18394)
 + Hannah Alpert-Abrams, "Machine Reading the *Primeros Libros*" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
++ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + Matthew Lavin, "Why Digital Humanists Should Emphasize Situated Data over Capta" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/2/000556/000556.html)
 
 #### Book Lab 12: From a Distance
