@@ -28,7 +28,7 @@ We will complement our readings with praxis, gaining hands-on experience  throug
 
 Through our discussions we will develop greater capacities to critically read machines, analyzing the political, cultural, and social forces that shape—and are shaped by—textual technologies. We will raise urgent questions around privacy, algorithmic bias, intellectual property, information overload, and textual authority, asking how a rich new media history might inform our technological present and contribute to a richer construction of the digital humanities and information sciences fields. 
 
-### Acknowledgements
+### Acknowledgments
 
 In developing this course I learned from many people, but I particularly thank [Whitney Trettien](http://whitneyannetrettien.com/), [Matthew Kirschenbaum](https://mkirschenbaum.wordpress.com/), and [Kari Kraus](http://www.karikraus.com/) for graduate syllabi from which I drew particular inspiration. I thank Matthew and Kari, in particular, for the [Book Lab moniker](https://english.umd.edu/research-innovation/booklab), which they graciously agreed to share.
 
