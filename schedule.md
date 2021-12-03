@@ -233,12 +233,12 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 #### Penumbra
 
++ Steven Lubar, "'Do Not Fold, Spindle or Mutilate': A Cultural History of the Punch Card" (1992), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/epdf/10.1111/j.1542-734X.1992.1504_43.x)
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013)
 + Lisa Nakamura, "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture" (2014), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/563663)
 + Sydney J. Shep, "Digital Materiality," from _A New Companion to Digital Humanities_ (2016), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/pdf/10.1002/9781118680605.ch22)
 + Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
 + Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK
-+ Kaitlyn Tiffany, "You Probably Don’t Remember the Internet" (2021), [external link](https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/)
 
 #### Book Lab 11: Totally Fabricated
 
@@ -249,6 +249,7 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 + Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
 + Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
++ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 
 #### Penumbra 
@@ -256,7 +257,6 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Roberto Busa, "Why Can a Computer Do So Little?" (1976), GET LINK
 + Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from _Reading Machines: Toward an Algorithmic Criticism_ (2011), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/18394)
 + Hannah Alpert-Abrams, "Machine Reading the *Primeros Libros*" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
-+ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + Matthew Lavin, "Why Digital Humanists Should Emphasize Situated Data over Capta" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/2/000556/000556.html)
 
 #### Book Lab 12: From a Distance
