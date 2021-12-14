@@ -35,6 +35,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 + Hannah Alpert-Abrams, "Archaeology of a Book: An Experimental Approach to Reading Rare books in Archival Contexts" (2016), [external link](https://scalar.usc.edu/works/advertencias/index)
 + Sarah Werner, "Part 1: Overview" and "Part 3: On the Page" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-16) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-84)
++ Amaranth Borsuk, "The Book as Object" from _The Book_ (2018)
 + Linc Kesler, "Indigenous People and the Written Word" from _The Unfinished Book_ (2021), [external link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-33)
 
 #### Penumbra
@@ -50,12 +51,16 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 ### Week 3 | February 7 | Page
 
+_**On Location**: Meet at [Fresh Press Paper](https://www.freshpress.studio/), 2116 Griffith Drive, Champaign, IL, 61820_
+
+Book Lab #3 will be hosted at [Fresh Press Paper](https://www.freshpress.studio/). Due to materials, space, and time constraints, we cannot all attend the workshop at the same time. Instead, students will sign up for one of two sessions during the week: one during our regular class session, Monday 1-3:50, and one on Friday 2/11, 1-3:50. If the available time slots present an insurmountable barrier, please contact me to discuss possibilities. 
+
 #### Core
 
 + Bonnie Mak, "Architectures of the Page" from _How the Page Matters_ (2012), [library link](https://ebookcentral.proquest.com/lib/uiuc/detail.action?docID=4672399)
-+ Amaranth Borsuk, "The Book as Object" from _The Book_ (2018)
 + Jonathan Senchyne, "Introduction" and "Conclusion: Reading Into Surfaces" from _The Intimacy of Paper in Early and Nineteenth-Century American Literature_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/78288)
 + Lisa Gitelman, "Near Print and Beyond Paper: Knowing by \*.pdf" from _Paper Knowledge: Toward a Media History of Documents_ (2014), GET LINK
++ Fresh Press Paper, "A Case for a New Case Paper: Co-engineering Library Conservation Materials from Locally Sourced Agricultural Waste" (2019), [external link](https://www.freshpress.studio/library-conservation)
 
 #### Penumbra
 
@@ -64,8 +69,6 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Sarah Werner, "Paper" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-34)
 
 #### Book Lab 3: The Old Time Rag
-
-Due to materials, space, and time constraints, we cannot conduct Book Lab #3 during class. Instead, students will sign up for one of two sessions during the week held at [Fresh Press Paper](https://www.freshpress.studio/). We will end class early this week in recognition of the additional time ask of the lab. If the available time slots present an insurmountable barrier, please send me an email. 
 
 
 ### Week 4 | February 14 (Valentines!) | Print
@@ -145,15 +148,16 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Meredith L. McGill, "Format" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707740)
 + Élika Ortega, "The Many Books of the Future: Print-Digital Literatures" (2020), [external link](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/)
 + Dennis Yi Tenen, "Reading Platforms: A Concise History of the Electronic Book" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-22)
++ Kate Murray, Marcus Nappier, and Liz Holdzkom, “Fun with File Formats" (2021), [external link](https://blogs.loc.gov/thesignal/2021/12/fun-with-file-formats/)
 
 #### Penumbra
 
 + Nick Montfort and Ian Bogost, "Afterword on Platform Studies" from _Racing the Beam: The Atari Video Computer System_ (2009), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6274628.pdf&bkn=6267193&pdfType=chapter)
 + Jonathan Sterne, "Format Theory" from _MP3: The Meaning of a Format_ (2012), [external link](https://www.dukeupress.edu/Assets/PubMaterials/978-0-8223-5287-7_601.pdf)
 + James N. Green, "Bound/Unbound" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707732)
-+ Leah Price, “Interleaf: Please Lay Flat,” from _What We Talk About When We Talk About Books_ (2019), GET LINK
 + Sarah Werner, "Format" and "Binding" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-49) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-76)
 + Meredith L. McGill, "Books on the Loose" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-6)
++ Jacob Kowall and Hillary Szu Yin Shiue, “All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format" (2021), [external link](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
 
 #### Book Lab 7: A Real Bind
 
@@ -279,6 +283,7 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Craig Mod, "Future Reading" (2015), [external link](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
 + Allie Alvis, "Volvelles: Moveable Book Machines!" (2020), [external link](https://www.youtube.com/watch?v=cdgFxuw5I8M&t=55s)
++ Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/nissan-ariya-price-release-date-range-specs-2023)
 
 #### Book Lab 13: Thoroughly Entwined
 
