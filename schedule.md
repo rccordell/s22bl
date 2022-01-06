@@ -230,18 +230,19 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 #### Core
 
++ Vannevar Bush, "As We May Think" (1945), [external link](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 + Melissa Terras and Julianne Nyhan, "Father Busa’s Female Punch Card Operatives," from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/57)
 + Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
-+ Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 
 #### Penumbra
 
 + Steven Lubar, "'Do Not Fold, Spindle or Mutilate': A Cultural History of the Punch Card" (1992), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/epdf/10.1111/j.1542-734X.1992.1504_43.x)
 + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013)
 + Lisa Nakamura, "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture" (2014), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/563663)
-+ Sydney J. Shep, "Digital Materiality," from _A New Companion to Digital Humanities_ (2016), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/pdf/10.1002/9781118680605.ch22)
+<!-- + Sydney J. Shep, "Digital Materiality," from _A New Companion to Digital Humanities_ (2016), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/pdf/10.1002/9781118680605.ch22)-->
 + Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
++ + Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 + Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK
 
 #### Book Lab 11: Totally Fabricated
