@@ -5,7 +5,7 @@ title: Syllabus
 
 ## BookLab: Print to Programming
 
-+ Course Number: IS583 BL / ENGL583 BL
++ Course Number: IS583 BL / ENGL578 BL
 + Spring 2022
 + Classroom: School of Library and Information Sciences, 501 East Daniel Street, Room 46. **Please check the syllabus each week, however, as we are often on location elsewhere on campus.**
 + Class Time: Mondays 1-3:50pm
