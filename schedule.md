@@ -183,14 +183,36 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 #### Book Lab 8: It'll Last Longer
 
 
-### Week 9 | March 28 | Remediation
+### Week 9 | March 28 | Network 
+
+#### Core
+
++ browse the "Love Letter" to _Viral Texts_ (2016), [external link](https://loveletter.viraltexts.org/)
++ Amaranth Borsuk, “The Book as Idea” from _The Book_ (2018)
++ Scott Weingart, "The Route of a Text Message" (2019), [external link](http://scottbot.net/the-route-of-a-text-message/)
++ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
+
+#### Penumbra
+
++ Donald F. McKenzie, "The Book as an Expressive Form" from *Bibliography and the Sociology of Texts* (orig. 1986), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/bibliography-and-the-sociology-of-texts/book-as-an-expressive-form/A4622300FDAAA5F71FFB7B0082AB4AEB)
++ Jim Ridolfo and Dànielle Nicole DeVoss, "Composing for Recomposition: Rhetorical Velocity and Delivery" (2009), [external link](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) *Note: make sure to read each of the sections in the table of contents at the top*
+<!-- + Meredith McGill, "A Matter of the Text" from _American Literature and the Culture of Reprinting, 1834-1853_ (2007), GET LINK -->
++ Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010), [external link](https://www.erudit.org/en/journals/memoires/2010-v2-n1-memoires3974/045315ar/)
++ Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,", from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/82)
++ Ryan Cordell and Abby Mullen, "'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/652267)
+
+#### Book Lab 9a: I Feel Zine
+
+
+### Week 10 | April 4 | Remediation
+
+_**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Building, 408 E. Peabody Drive_
 
 #### Core
 
 + Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external link](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
 + Zine Librarians' Code of Ethics (2015), [external link](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf)
 + Catherine Coker, "The Margins of Print? Fan Fiction as Book History" (2017), [external link](https://journal.transformativeworks.org/index.php/twc/article/view/1053) 
-+ Amaranth Borsuk, “The Book as Idea” from _The Book_ (2018)
 + Browse the [_Queer Zine Archive Project_ blog](https://www.qzap.org/v9/index.php) and its [zine archive](https://archive.qzap.org/)
 
 #### Penumbra
@@ -199,28 +221,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Emily C. Friedman, "Amateur Manuscript Fiction in the Archives: An Introduction" (2020), GET LINK
 + Adam Hammond, "Books in Videogames" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-23)
 
-#### Book Lab 9: I Feel Zine
-
-
-### Week 10 | April 4 | Network
-
-#### Core
-
-+ Donald F. McKenzie, "The Book as an Expressive Form" from *Bibliography and the Sociology of Texts* (orig. 1986), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/bibliography-and-the-sociology-of-texts/book-as-an-expressive-form/A4622300FDAAA5F71FFB7B0082AB4AEB)
-+ browse the "Love Letter" to _Viral Texts_ (2016), [external link](https://loveletter.viraltexts.org/)
-+ Scott Weingart, "The Route of a Text Message" (2019), [external link](http://scottbot.net/the-route-of-a-text-message/)
-+ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
-
-#### Penumbra
-
-+ Jim Ridolfo and Dànielle Nicole DeVoss, "Composing for Recomposition: Rhetorical Velocity and Delivery" (2009), [external link](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) *Note: make sure to read each of the sections in the table of contents at the top*
-+ Meredith McGill, "A Matter of the Text" from _American Literature and the Culture of Reprinting, 1834-1853_ (2007), GET LINK
-+ Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010), [external link](https://www.erudit.org/en/journals/memoires/2010-v2-n1-memoires3974/045315ar/)
-+ Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,", from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/82)
-+ Ryan Cordell and Abby Mullen, "'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/652267)
-
-
-#### Book Lab 10: TBD
+#### Book Lab 9b: I Feel Zine
 
 
 ### Week 11 | April 11 | Infrastructure
@@ -242,7 +243,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
 + Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 
-#### Book Lab 11: TBD
+#### Book Lab 10: TBD
 
 
 ### Week 12 | April 18 | Code
@@ -262,7 +263,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + Matthew Lavin, "Why Digital Humanists Should Emphasize Situated Data over Capta" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/2/000556/000556.html)
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 
-#### Book Lab 12: Aye, Robot
+#### Book Lab 11: Aye, Robot
 
 
 ### Week 13 | April 25 | Interface
@@ -283,7 +284,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 <!-- + Allie Alvis, "Volvelles: Moveable Book Machines!" (2020), [external link](https://www.youtube.com/watch?v=cdgFxuw5I8M&t=55s) -->
 + (read or listen), 99% Invisible, "The Universal Page" (2019), [external link](https://99percentinvisible.org/episode/the-universal-page/)
 
-#### Book Lab 13: Thoroughly Entwined
+#### Book Lab 12: Thoroughly Entwined
 
 
 ### Week 14 | May 2 | Memory
@@ -302,7 +303,4 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
 + Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK
 
-
-
-
-#### Book Lab 14: Book Reports
+#### Book Reports
