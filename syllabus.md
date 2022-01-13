@@ -15,10 +15,10 @@ title: Syllabus
 
 + Ryan Cordell
 + Office: 614 Daniel St., Room 5147
-+ Office Hours: TBD
++ Office Hours: Mondays 10:30-11:30 [via Discord](https://discord.gg/NQ3zmMcD59) or in person; Wednesdays 11am-12pm [via Discord](https://discord.gg/NQ3zmMcD59); otherwise by appointment
 + Phone: 217-333-2622
 + Email: [rcordell@illinois.edu](mailto:rcordell@illinois.edu)
-+ Preferred contact: 
++ Preferred contact: email or Discord message
 
 ## Course Description
 
