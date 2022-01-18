@@ -13,7 +13,7 @@ Once during the semester you will work with a partner to lead our class discussi
 2. Optionally, you may adjust our readings for your week by adding one additional article and possibly moving one required reading into the penumbral category. You should speak with me well in advance about either, as I might see something essential in a piece that would not be apparent to you. Any decision to change the reading schedule should be made at least one week prior to your assigned session, so that your colleagues have time to adjust their preparations.
 3. You should come to your assigned class ready with a few questions or points you that will help get our conversation started. Your prompts should incorporate ideas from the penumbral readings that your colleagues may not have encountered. You are not expected to lead discussion for the entire class period: I only expect you to take the lead for the first 20-30 minutes. 
 
-We will sign up for discussion-leading slots on the first day of class.
+There is a page in the class Canvas that you can use to sign up for your slot, which you should claim by the end of the day on February 3. 
 
 ### 2.  BookLab Fieldbook
 
@@ -23,33 +23,13 @@ To help accomplish this goal, you will maintain a fieldbook, which will constitu
 
 There will be three types of entries in your fieldbooks: **bibliographic annotation**, **lab report**, and **experiment**.   
 
-#### 1. Bibliographic Annotation Entries
-
-In order to help you attend closely to our course texts and prepare for each class, you should prepare a few paragraphs responding to the core readings and your chosen penumbral text. I mean a few paragraphs **in total**, *NOT* a few paragraphs per text. Your entries should synthesize and bring readings into conversation, and should focus on a few ideas you want to highlight rather than attempting to summarize everything in the readings. These entries should be prepared, roughly, in the style of the annotated bibliography. It will be easiest to complete this assignment if you jot down notes and ideas while reading.  
-
-You should draft each bibliographic annotation fieldbook entry in its own `.md` file, following the naming convention outlined above, and commit it to your fieldbook repository prior to the pertinent class period. *To emphasize: each class preparation entry should be saved as a separate file in your Github repository.*
-
-#### 2. Lab Report Entries
-
-Your lab report entries will vary quite a bit from lab to lab. I may post a prompt for a lab to help start your thinking, in which case you should begin your reports from these prompts. 
-
-In each lab report entry, I will expect to find a brief  description of the lab activities completed and any outcomes (code, a material product, etc.). For coding labs, you will likely integrate code snippets directly into your Markdown file (more on this as those labs approach), while for other labs you may instead reference external proof of your work, such as photos. I will also expect prose that reflects analytically on the work of the lab, putting it into conversation with *one or two* readings *from the same week of class* as the lab, as well as readings drawn from the larger class or beyond where appropriate. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for the class' Unessay projects.
-
-#### 3. Experimental Entries
-
-Unlike many graduate seminars, BookLab will not ask you to produce a final seminar paper. In some ways, your lab report entries will constitute an ongoing analysis akin to what happens in many seminar papers. 
-
-In addition, twice during the semester, you will conduct your own experiment with textual technologies or media. In brief, you will either extend your work with one of our lab technologies, bring together multiple modalities from our labs, or even introduce a textual technology or medium we were unable to explore in class. Your goal will be to delve more deeply into a particular book technology or medium than we can in 90 minutes, gain a more robust understanding of the scholarly literature touching on that technology or medium, and produce a materially-engaged analysis. Your experiments should, like our labs, bring together theory and praxis and be engaged with material texts, capaciously construed.
-
-As with your lab report entries, your experimental fieldbook entries will pair description and analysis, but with more emphasis on academic argument, and your own theoretical or scholarly approaches. We will discuss these assignments more in class in the first few weeks, so that we have a shared understanding of what is expected and what is possible, but I encourage enthusiasm and risk taking in these experiments. 
-
-You may choose your topics and technologies at your own discretion, and complete your experiments on your own calendar, though I would not recommend putting both off until the end of the semester. You might think of the effort asked in these assignments as, roughly, half what you would contribute to a more traditional seminar paper assignment. 
-
 #### Organizing Your Fieldbook
 
-Your fieldbook will be a collection of Markdown or `.md` files collected in a [Github Repository](https://github.com/). We will learn how to write in Markdown and contribute to a Github repository during our first class. You will share the address of your repository with me so that I can check your progress. I may also ask to repost stellar fieldbook entries on our class website, either under your name or anonymously as you prefer.
+Your fieldbook will be a collection of files collected in a folder that I am able to access. I strongly recommend that you consider using a [Github repository](https://github.com/) and writing in Markdown (see instructions for doing so [from another course I've taught](https://f20idh.ryancordell.org/2020/09/10/Github/)) but you could also use a folder in Google Drive, publish to a blog, or find another solution that works best to meet your goals. The important thing is that I am able to find your entries. 
 
-You should name your files following the following convention:
+You should share the URL of your fieldbook with me so that I can check your progress through the semester. I may also ask to repost stellar fieldbook entries on our class website, either under your name or anonymously as you prefer.
+
+When using Github or another online folder structure, you should name your files following the following convention:
 
 *For bibliographic annotation entries:*
 
@@ -62,6 +42,28 @@ You should name your files following the following convention:
 *For Experimental entries:*
 
 `YYYY-MM-DD-experimental-WHAT-WORDS-YOU-WANT.md`
+
+#### 1. Bibliographic Annotation Entries
+
+In order to help you attend closely to our course texts and prepare for each class, you should prepare a few paragraphs responding to the core readings and your chosen penumbral text. I mean a few paragraphs **in total**, *NOT* a few paragraphs per text. Your entries should synthesize and bring readings into conversation, and should focus on a few ideas you want to highlight rather than attempting to summarize everything in the readings. These entries should be prepared, roughly, in the style of the annotated bibliography. It will be easiest to complete this assignment if you jot down notes and ideas while reading.  
+
+You should draft each bibliographic annotation fieldbook entry in its own file, following the naming convention outlined above, and commit or publish it to your fieldbook prior to the pertinent class period. *To emphasize: each class preparation entry should be saved as a separate file in your fieldbook.*
+
+#### 2. Lab Report Entries
+
+Your lab report entries will vary quite a bit from lab to lab. I may post a prompt for a lab to help start your thinking, in which case you should begin your reports from these prompts. 
+
+In each lab report entry, I will expect to find a brief  description of the lab activities completed and any outcomes (code, a material product, etc.). For coding labs, you will likely integrate code snippets directly into your prose (more on this as those labs approach), while for other labs you may instead reference external proof of your work, such as photos. I will also expect prose that reflects analytically on the work of the lab, putting it into conversation with *one or two* readings *from the same week of class* as the lab, as well as readings drawn from the larger class or beyond where appropriate. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for your longer experimental entries.
+
+#### 3. Experimental Entries
+
+Unlike many graduate seminars, BookLab will not ask you to produce a final seminar paper. In some ways, your lab report entries will constitute an ongoing analysis akin to what happens in many seminar papers. 
+
+In addition, twice during the semester, you will conduct your own experiment with textual technologies or media. In brief, you will either extend your work with one of our lab technologies, bring together multiple modalities from our labs, or even introduce a textual technology or medium we were unable to explore in class. Your goal will be to delve more deeply into a particular book technology or medium than we can in 90 minutes, gain a more robust understanding of the scholarly literature touching on that technology or medium, and produce a materially-engaged analysis. Your experiments should, like our labs, bring together theory and praxis and be engaged with material texts, capaciously construed.
+
+As with your lab report entries, your experimental fieldbook entries will pair description and analysis, but with more emphasis on academic argument, and your own theoretical or scholarly approaches. We will discuss these assignments more in class in the first few weeks, so that we have a shared understanding of what is expected and what is possible, but I encourage enthusiasm and risk taking in these experiments. 
+
+You may choose your topics and technologies at your own discretion, and complete your experiments on your own calendar, though I would not recommend putting both off until the end of the semester. You might think of the effort asked in these assignments as, roughly, half what you would contribute to a more traditional seminar paper assignment. 
 
 #### Flexibility
 
