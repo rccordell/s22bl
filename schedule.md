@@ -40,7 +40,6 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 #### Penumbra
 
-+ Robert Darnton, "What is the History of Books? Revisited" (2007), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/modern-intellectual-history/article/what-is-the-history-of-books-revisited/58B54CA744EACF363ADD23C3473A4498)
 + Matthew  and Sarah Werner, "Digital Scholarship and Digital Studies: the State of the Discipline" (2014), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/43956362)
 + Leah Price, “Introduction” and “Reading Over Shoulders” from _What We Talk About When We Talk About Books_ (2019), GET LINK
 + Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
@@ -168,7 +167,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
 #### Core
 
-+ Sarah Werner, "Illustration" and "Part 4: Looking at Books" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-71) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-103)
++ Amaranth Borsuk, “The Book as Idea” from _The Book_ (2018)
 + Andrew Piper, Chad Wellmon, and Mohamed Cheriet, "The Page Image: Towards a Visual History of Digital Documents" (2020), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/770717)
 + Jacqueline Goldsby, "Book Faces" (2021) from _The Unfinished Book_, [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-11)
 + Caroline Wigginton, "An Indigenous Pipe Bibliography" from _The Unfinished Book_ [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-19)
@@ -176,30 +175,29 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 #### Penumbra
 
 + Aaron Kashtan, "Introduction: Comics, Materiality, and the Future of the Book" from _Between Pen and Pixel: Comics, Materiality, and the Book of the Future_ (2018), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctv1khdqnk.5)
-+ Élika Ortega, "Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen (2017), [external link](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/)
+<!--+ Élika Ortega, "Not a Case of Words: Textual Environments and Multimateriality in Between Page and Screen (2017), [external link](http://electronicbookreview.com/essay/not-a-case-of-words-textual-environments-and-multimateriality-in-between-page-and-screen/)-->
 + Juliet S. Sperling, "Image" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/707742)
++ Sarah Werner, "Illustration" and "Part 4: Looking at Books" from _Studying Early Printed Books, 1450-1800 : A Practical Guide_ (2019), [library link 1](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-71) & [library link 2](http://www.library.illinois.edu.proxy2.library.illinois.edu/proxy/go.php?url=https://search-ebscohost-com.proxy2.library.illinois.edu/login.aspx?direct=true&db=nlebk&AN=1991322&site=eds-live&scope=site&ebv=EK&ppid=Page-__-103)
 + Joseph Viscomi, "Illuminated Printing" exhibit from the *William Blake Archive*, [external link](http://www.blakearchive.org/exhibit/illuminatedprinting)
 
 #### Book Lab 8: It'll Last Longer
 
 
-### Week 9 | March 28 | Network 
+### Week 9 | March 28 | Data 
 
 #### Core
 
-+ browse the "Love Letter" to _Viral Texts_ (2016), [external link](https://loveletter.viraltexts.org/)
-+ Amaranth Borsuk, “The Book as Idea” from _The Book_ (2018)
++ Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
++ Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads" (2018), [library link](https://read-dukeupress-edu.proxy2.library.illinois.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death)
++ Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
 + Scott Weingart, "The Route of a Text Message" (2019), [external link](http://scottbot.net/the-route-of-a-text-message/)
-+ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
 
 #### Penumbra
 
-+ Donald F. McKenzie, "The Book as an Expressive Form" from *Bibliography and the Sociology of Texts* (orig. 1986), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/bibliography-and-the-sociology-of-texts/book-as-an-expressive-form/A4622300FDAAA5F71FFB7B0082AB4AEB)
-+ Jim Ridolfo and Dànielle Nicole DeVoss, "Composing for Recomposition: Rhetorical Velocity and Delivery" (2009), [external link](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) *Note: make sure to read each of the sections in the table of contents at the top*
++ Steven Lubar, "'Do Not Fold, Spindle or Mutilate': A Cultural History of the Punch Card" (1992), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/epdf/10.1111/j.1542-734X.1992.1504_43.x)
 <!-- + Meredith McGill, "A Matter of the Text" from _American Literature and the Culture of Reprinting, 1834-1853_ (2007), GET LINK -->
 + Sydney Shep, "'Smiley, you’re on candid camera': Emoticons & Pre-Digital Networks" (2010), [external link](https://www.erudit.org/en/journals/memoires/2010-v2-n1-memoires3974/045315ar/)
 + Molly O’Hagan Hardy, "'Black Printers' on White Cards: Information Architecture in the Data Structures of the Early American Book Trades,", from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/82)
-+ Ryan Cordell and Abby Mullen, "'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/652267)
 
 #### Book Lab 9a: I Feel Zine
 
@@ -212,12 +210,15 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 
 + Ellen Gruber Garvey, "Introduction" from _Writing with Scissors_ (2012), [external link](https://www.google.com/books/edition/Writing_with_Scissors/HNcwsH_5k0AC?hl=en&gbpv=1&pg=PA3&printsec=frontcover)
 + Zine Librarians' Code of Ethics (2015), [external link](http://zinelibraries.info/wordpress/wp-content/uploads/2015/11/EthicsZine-rev-20151105.pdf)
++ browse the "Love Letter" to _Viral Texts_ (2016), [external link](https://loveletter.viraltexts.org/)
 + Catherine Coker, "The Margins of Print? Fan Fiction as Book History" (2017), [external link](https://journal.transformativeworks.org/index.php/twc/article/view/1053) 
 + Browse the [_Queer Zine Archive Project_ blog](https://www.qzap.org/v9/index.php) and its [zine archive](https://archive.qzap.org/)
 
 #### Penumbra
 
++ Jim Ridolfo and Dànielle Nicole DeVoss, "Composing for Recomposition: Rhetorical Velocity and Delivery" (2009), [external link](http://kairos.technorhetoric.net/13.2/topoi/ridolfo_devoss/intro.html) *Note: make sure to read each of the sections in the table of contents at the top*
 + Lara Langer Cohen, "Notes from the State of Saint Domingue: The Practice of Citation in Clotel," from _Early African American Print Culture_ (2012), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/j.ctt3fhdr3.12)
++ Ryan Cordell and Abby Mullen, "'Fugitive Verses': The Circulation of Poems in Nineteenth-Century American Newspapers (2017), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/652267)
 + Emily C. Friedman, "Amateur Manuscript Fiction in the Archives: An Introduction" (2020), GET LINK
 + Adam Hammond, "Books in Videogames" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-23)
 
@@ -229,13 +230,13 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 #### Core
 
 + Vannevar Bush, "As We May Think" (1945), [external link](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-+ Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016), [external link](http://curatingmenus.org/articles/against-cleaning/)
-+ Kate Crawford and Vladan Joler, “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor” (2018), [external link](https://anatomyof.ai/)
++ Robert Darnton, "What is the History of Books? Revisited" (2007), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/modern-intellectual-history/article/what-is-the-history-of-books-revisited/58B54CA744EACF363ADD23C3473A4498)
 + Benjamin Lee, "Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html)
++ Rachel Sagner Buurma, "Indexed" from _The Unfinished Book_ (2021), [library link](https://www-oxfordhandbooks-com.proxy2.library.illinois.edu/view/10.1093/oxfordhb/9780198830801.001.0001/oxfordhb-9780198830801-e-27)
 
 #### Penumbra
 
-+ Steven Lubar, "'Do Not Fold, Spindle or Mutilate': A Cultural History of the Punch Card" (1992), [library link](https://onlinelibrary-wiley-com.proxy2.library.illinois.edu/doi/epdf/10.1111/j.1542-734X.1992.1504_43.x)
++ Donald F. McKenzie, "The Book as an Expressive Form" from *Bibliography and the Sociology of Texts* (orig. 1986), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/books/bibliography-and-the-sociology-of-texts/book-as-an-expressive-form/A4622300FDAAA5F71FFB7B0082AB4AEB)
 <!-- + Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, "Bibliocircuitry and the Design of the Alien Everyday" (2013) -->
 + Lisa Nakamura, "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture" (2014), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/563663)
 + Melissa Terras and Julianne Nyhan, "Father Busa’s Female Punch Card Operatives," from *Debates in the Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/57)
@@ -250,8 +251,8 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 
 #### Core
 
++ Stephen Wolfram, "Untangling the Tale of Ada Lovelace" (2015), [external link](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 + Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
-+ Jessica Marie Johnson, "Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads" (2018), [library link](https://read-dukeupress-edu.proxy2.library.illinois.edu/social-text/article/36/4%20(137)/57/137032/Markup-BodiesBlack-Life-Studies-and-Slavery-Death)
 + Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + browse the [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 
@@ -270,7 +271,6 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 
 #### Core
 
-+ learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
 + Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017) _Note: this is a longer read so be prepared_
 + Amaranth Borsuk, The Book as Interface" from *The Book* (2018)
 + (play) _AI Dungeon_, [external link](https://play.aidungeon.io/main/home)
@@ -278,6 +278,7 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 
 #### Penumbra
 
++ learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
 + Alan Galey, "The Enkindling Reciter: E-Books in the Bibliographical Imagination" (2012), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/488258)
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Craig Mod, "Future Reading" (2015), [external link](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
