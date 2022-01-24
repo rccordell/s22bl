@@ -43,6 +43,17 @@ When using Github or another online folder structure, you should name your files
 
 `YYYY-MM-DD-experimental-WHAT-WORDS-YOU-WANT.md`
 
+#### Flexibility
+
+BookLab is a challenging and full class. The semester will include 14 weeks of readings and ~12 humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete 7 lab report entries. Your complete fieldbook then, will include:
+
+1. ~11 bibliographic annotation entries: that's one for each week, minus the first week when none was expected, and minus two weeks you choose to forgo
+2. 7 lab report entries, completed at your discretion within 2 weeks of the given lab activity
+3. 2 experimental entries, completed at your discretion
+
+
+I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. Your bibliographic annotation entries are due prior to the pertinent class, while lab report entries are due within two weeks of the pertinent lab session.
+
 #### 1. Bibliographic Annotation Entries
 
 In order to help you attend closely to our course texts and prepare for each class, you should prepare a few paragraphs responding to the core readings and your chosen penumbral text. I mean a few paragraphs **in total**, *NOT* a few paragraphs per text. Your entries should synthesize and bring readings into conversation, and should focus on a few ideas you want to highlight rather than attempting to summarize everything in the readings. These entries should be prepared, roughly, in the style of the annotated bibliography. It will be easiest to complete this assignment if you jot down notes and ideas while reading.  
@@ -51,9 +62,13 @@ You should draft each bibliographic annotation fieldbook entry in its own file, 
 
 #### 2. Lab Report Entries
 
-Your lab report entries will vary quite a bit from lab to lab. I may post a prompt for a lab to help start your thinking, in which case you should begin your reports from these prompts. 
+Your lab report entries will vary quite a bit from lab to lab. I may post a prompt for a lab to help start your thinking, in which case you should begin your reports from these prompts. In generally I would expect lab reports to be at least 500 but no more than 1,000 words, as an absolute maximum.
 
-In each lab report entry, I will expect to find a brief  description of the lab activities completed and any outcomes (code, a material product, etc.). For coding labs, you will likely integrate code snippets directly into your prose (more on this as those labs approach), while for other labs you may instead reference external proof of your work, such as photos. I will also expect prose that reflects analytically on the work of the lab, putting it into conversation with *one or two* readings *from the same week of class* as the lab, as well as readings drawn from the larger class or beyond where appropriate. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for your longer experimental entries.
+In each lab report entry, I will expect to find an account of what you did: that is, a brief description of the lab activities completed and any outcomes (code, a material product, etc.). For coding labs, you will likely integrate code snippets directly into your prose (more on this as those labs approach), while for other labs you may instead reference external proof of your work, such as photos. Next, I would expect some prose that reflect on the process: what thoughts did doing the lab activity prompt about the medium and/or technologies we used? What insights or questions occurred as you worked? Did the activity remind you of other labs in this class, or other experiences beyond the course? 
+
+I will also expect prose that reflects analytically on the work of the lab, putting it into conversation with *one or two* readings *from the same week of class* as the lab, as well as readings drawn from the larger syllabus, or beyond where appropriate. This prose need not be as formal as a research paper, but it should demonstrate careful thought and preparation. You should integrate the readings explicitly, if possible through direct quotation. Use this writing to experiment with intellectual pairings you think might be generative to your larger thinking and help you prepare for your longer experimental entries.
+
+You should submit lab report entries within two weeks of the lab activity, as we agreed together in class on the first day.
 
 #### 3. Experimental Entries
 
@@ -64,10 +79,6 @@ In addition, twice during the semester, you will conduct your own experiment wit
 As with your lab report entries, your experimental fieldbook entries will pair description and analysis, but with more emphasis on academic argument, and your own theoretical or scholarly approaches. We will discuss these assignments more in class in the first few weeks, so that we have a shared understanding of what is expected and what is possible, but I encourage enthusiasm and risk taking in these experiments. 
 
 You may choose your topics and technologies at your own discretion, and complete your experiments on your own calendar, though I would not recommend putting both off until the end of the semester. You might think of the effort asked in these assignments as, roughly, half what you would contribute to a more traditional seminar paper assignment. 
-
-#### Flexibility
-
-BookLab is a challenging and full class. The semester will include 14 weeks of readings and ~12 humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete 7 lab report entries. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. Your bibliographic annotation entries are due prior to the pertinent class, while lab report entries are due within two weeks of the pertinent lab session.
 
 
 ### Incomplete grades
