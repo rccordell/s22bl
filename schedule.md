@@ -41,7 +41,7 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 #### Penumbra
 
 + Matthew  and Sarah Werner, "Digital Scholarship and Digital Studies: the State of the Discipline" (2014), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/43956362)
-+ Leah Price, “Introduction” and “Reading Over Shoulders” from _What We Talk About When We Talk About Books_ (2019), GET LINK
+<!-- + Leah Price, “Introduction” and “Reading Over Shoulders” from _What We Talk About When We Talk About Books_ (2019), GET LINK -->
 + Johanna Drucker, ["Preliminary 1. Histories of the Book and Literacy Technologies"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_1.html) and ["Preliminary 2. Bibliographical Alterities"](https://hob.gseis.ucla.edu/HoBCoursebook_Prelim_2.html)
 + Browse [Kit Davey’s Instagram](https://www.instagram.com/daveykit/?hl=en)
 
