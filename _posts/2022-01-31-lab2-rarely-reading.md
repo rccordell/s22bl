@@ -17,9 +17,7 @@ For your lab fieldbook entry, you should identify a new pairing between the book
 
 Your fieldbook entry should analyze salient similarities and differences among the pages in your chosen books. Don’t simply list comparisons—though you might use bullet points to organize your thoughts—but work to understand significances. What can we learn from just a few page openings about relationships among technology, media, and culture during your texts’ periods? What do these books teach us about shifting reading, writing, and publishing practices? How does each set of pages signal what a book is, who a book is for, and what a book does during its historical period? What are the logics, codes, and protocols through which a "book" operates in each period?
 
-In your lab report, you should link your thoughts and observations about these specific texts to our course readings, which can help you understand the features and effects I want you to attend to. You should also choose one of the digitized books listed at the end of this assignment and compare them with the physical books you studied, so that **in total you compare and contrast three books**.
-
-Some of the books we studied in RBML have been digitized, and I include links where possible.
+In your lab report, you should link your thoughts and observations about these specific texts to our course readings, which can help you understand the features and effects I want you to attend to. You should also choose one of the digitized books listed at the end of this assignment and compare them with the physical books you studied, so that **in total you compare and contrast three books**. Some of the books we studied in RBML have been digitized, and I include links where possible.
 
 ## In-Archive Books
 
