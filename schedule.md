@@ -76,7 +76,7 @@ Book Lab #3 will be hosted at [Fresh Press Paper](https://www.freshpress.studio/
 #### Book Lab 3b: The Old Time Rag
 
 
-### Week 5 | February 21 | Press
+### Week 5 | February 21 | Print
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
 
