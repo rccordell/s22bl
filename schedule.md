@@ -237,7 +237,7 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 + Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
 + Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 
-#### Book Lab 9: TBD
+#### Book Lab 9: Totally Fabricated
 
 
 ### Week 12 | April 18 | Code
