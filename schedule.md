@@ -113,17 +113,17 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 + (Watch, ~30 minutes) Carl Schlesinger and David Loeb Weiss, "Farewell etaoin shrdlu" (1978), [external link](https://vimeo.com/127605643)
 + David C. Zentgraf, "What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text" (2015), [external link](https://kunststube.net/encoding/)
 + Ryan Cordell, "'Q i-jtb the Raven': Taking Dirty OCR Seriously" (2017), [external link](https://ryancordell.org/research/qijtb-the-raven/)
-+ choose 2 entries from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series and/or the [_Font Review Journal_](https://fontreviewjournal.com/) you would like to discuss in class.
++ Thomas S. Mullaney, "Introduction: There is No Alphabet Here" from _The Chinese Typewriter: A History_ (2017), [library link](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=4985296&ppg=17)
 
 #### Penumbra
 
-+ Jerome McGann, "The Textual Condition" (1991), GET LINK
+<!-- + Jerome McGann, "The Textual Condition" (1991), GET LINK -->
 + Michael Whitmore, "Text: A Massively Addressable Object," from *Debates in the Digital Humanities* (2012), [external link](http://dhdebates.gc.cuny.edu/debates/text/28)
 + Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas , Casey Reas, Mark Sample, and Noah Vawter, "Introduction" to _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_ (2013), [external link](https://10print.org/10_PRINT_121114.pdf)
 <!-- + Martin Paul Eve, "'You have to keep track of your changes': The Version Variants and Publishing History of David Mitchell's Cloud Atlas" (2016), [external link](https://olh.openlibhums.org/article/10.16995/olh.82/)-->
-+ Thomas S. Mullaney, "Introduction: There is No Alphabet Here" from _The Chinese Typewriter: A History_ (2017), [library link](https://ebookcentral.proquest.com/lib/uiuc/reader.action?docID=4985296&ppg=17)
 + Denis Tenen, "Computational Poetics: An Introduction" and "Metaphor Machines" from _Plain Text: The Poetics of Computation_ (2018), GET LINK
 + (browse) David A. Smith and Ryan Cordell, "A Research Agenda for Historical and Multilingual Optical Character Recognition" (2019), [external link](https://ocr.northeastern.edu/report/)
++ choose 2 entries from the [Kern Your Enthusiasm](http://hilobrow.com/tag/kern-enthusiasm/) series and/or the [_Font Review Journal_](https://fontreviewjournal.com/) you would like to discuss in class.
 
 #### Book Lab 5: A Welcome Imposition
 
@@ -246,7 +246,7 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 
 + Stephen Wolfram, "Untangling the Tale of Ada Lovelace" (2015), [external link](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 + Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
-+ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
++ Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
 + browse the [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
 
 #### Penumbra 
@@ -254,6 +254,7 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 + Roberto Busa, "Why Can a Computer Do So Little?" (1976), GET LINK
 + Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from _Reading Machines: Toward an Algorithmic Criticism_ (2011), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/18394)
 + Hannah Alpert-Abrams, "Machine Reading the *Primeros Libros*" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
++ Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + Matthew Lavin, "Why Digital Humanists Should Emphasize Situated Data over Capta" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/2/000556/000556.html)
 + Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 
