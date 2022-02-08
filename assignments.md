@@ -45,10 +45,10 @@ When using Github or another online folder structure, you should name your files
 
 #### Flexibility
 
-BookLab is a challenging and full class. The semester will include 14 weeks of readings and ~12 humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete 7 lab report entries. Your complete fieldbook then, will include:
+BookLab is a challenging and full class. The semester will include 14 weeks of readings and ~12 humanities laboratories. To give you some flexibility, you may choose to forgo bibliographic annotation entries twice during the semester, and you should plan to complete 6 lab report entries. Your complete fieldbook then, will include:
 
 1. ~11 bibliographic annotation entries: that's one for each week, minus the first week when none was expected, and minus two weeks you choose to forgo
-2. 7 lab report entries, completed at your discretion within 2 weeks of the given lab activity
+2. 6 lab report entries, completed at your discretion within 2 weeks of the given lab activity
 3. 2 experimental entries, completed at your discretion
 
 
