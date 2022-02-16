@@ -80,6 +80,8 @@ Book Lab #3 will be hosted at [Fresh Press Paper](https://www.freshpress.studio/
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
 
+Discussion Leaders: Emily Zerrenner & Tom Hardy
+
 #### Core 
 
 + Charles W. Chesnutt, "Baxter's Procustes" (1904), [external link](https://loa-shared.s3.amazonaws.com/static/pdf/Chesnutt_Baxters_Procrustes.pdf)
@@ -108,6 +110,8 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
 
+Discussion Leaders: Daniel Evans & Peizhen Wu
+
 #### Core
 
 + (Watch, ~30 minutes) Carl Schlesinger and David Loeb Weiss, "Farewell etaoin shrdlu" (1978), [external link](https://vimeo.com/127605643)
@@ -131,6 +135,8 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 ### Week 7 | March 7 | Format
 
 _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (1301 S. Goodwin Ave., Urbana)_
+
+Discussion Leaders: Marcella Lees & Brian Landes
 
 #### Core
 
@@ -158,6 +164,8 @@ _**On Location**: Meet in the Books Arts Space, West Room, CU Community FabLab (
 
 _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 
+Discussion Leader: Caryn Corliss
+
 #### Core
 
 + Amaranth Borsuk, “The Book as Idea” from _The Book_ (2018)
@@ -176,7 +184,9 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 #### Book Lab 7: It'll Last Longer
 
 
-### Week 9 | March 28 | Data 
+### Week 9 | March 28 | Network
+
+Discussion Leaders: Elizabeth Schwartz & Brienne Hayes
 
 #### Core
 
@@ -198,6 +208,8 @@ _**On Location**: Meet at Rare Books and Manuscripts in the Main Library_
 ### Week 10 | April 4 | Remediation
 
 _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Building, 408 E. Peabody Drive_
+
+Discussion Leader: Carrie Johnson
 
 #### Core
 
@@ -241,6 +253,8 @@ _**On Location**: Meet in the Digital Output Lab, Room 235, Art & Design Buildin
 
 
 ### Week 12 | April 18 | Code
+
+Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 
 #### Core
 
