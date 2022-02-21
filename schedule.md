@@ -94,9 +94,9 @@ Discussion Leaders: Emily Zerrenner & Tom Hardy
 + Benjamin Franklin, *The Autobiography of Benjamin Franklin*, Chapters 2-7 (mostly skim, but focus on the sections describing the print shop), [external link](https://www.gutenberg.org/files/20203/20203-h/20203-h.htm#II)
 + ["Printing" vocational film](https://youtu.be/bPCiWiLu-W4) (1947) and ["Learning to Set Type" vocational film](https://youtu.be/AHrLIVeH1KM) (1940s)
 <!--+ Donald F. McKenzie, "Printers of the Mind: Some Notes on Bibliographical Theories and Printing-House Practices" (1969), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/40371475)-->
-<!--+ Lisa Gitelman, A Short History of \_\_\_\_\_\_\_\_\_" from _Paper Knowledge: Toward a Media History of Documents_ (2014), GET LINK
-+ Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), GET LINK
- + Miranda Marraccini, "'True Home Spirit': Paper Homes from the Victoria Press" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/698696) -->
+<!-- + Lisa Gitelman, A Short History of \_\_\_\_\_\_\_\_\_" from _Paper Knowledge: Toward a Media History of Documents_ (2014), GET LINK -->
+<!-- + Matthew P. Brown, "Blanks: Data, Method, and the British American Print Shop" (2017), GET LINK -->
+<!-- + Miranda Marraccini, "'True Home Spirit': Paper Homes from the Victoria Press" (2018), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/698696) -->
  + Stuart McKee, "How Print Culture Became Indigenous" (2010), [external link](https://s3-us-west-2.amazonaws.com/visiblelanguage/pdf/44.2/how-print-culture-came-to-be-indigenous.pdf)
 + Marcy J. Dinius, “‘Look!! Look!!! at This!!!!’: The Radical Typography of David Walker’s Appeal” (2011), [library link](https://www-cambridge-org.proxy2.library.illinois.edu/core/journals/pmla/article/look-look-at-this-the-radical-typography-of-david-walkers-appeal/F39DE812CB89744C279FE058C9F7140C)
 + Lisa Gitelman, "Print Culture (Other Than Codex): Job Printing and Its Importance" from *Comparative Textual Media* (2013), [library link](http://proxy2.library.illinois.edu/login?url=https://www.jstor.org/stable/10.5749/j.ctt5hjjtq.3)
