@@ -249,7 +249,7 @@ Discussion Leader: Carrie Johnson
 + Barnard, Megan and Gabriela Redwine. “Collecting Digital Manuscripts and Archives” (2016), [external link](https://www2.archivists.org/sites/all/files/Module_15_CaseStudy2_Barnard-Redwine.pdf)
 + Brigitte Fielder and Jonathan Senchyne, "Introduction: Infrastructures of African American Print" from _Against a Sharp White Background: Infrastructures of African American Print_ (2019), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/chapter/2296781/pdf)
 
-#### Book Lab 9: Totally Fabricated
+#### Book Lab 9: Our Feature Presentation
 
 
 ### Week 12 | April 18 | Code
@@ -265,7 +265,7 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 
 #### Penumbra 
 
-+ Roberto Busa, "Why Can a Computer Do So Little?" (1976), GET LINK
++ Roberto Busa, "Why Can a Computer Do So Little?" (1976), [canvas link](https://canvas.illinois.edu/courses/16570/files?preview=4101997)
 + Stephen Ramsay, "An Algorithmic Criticism" and "Potential Readings" from _Reading Machines: Toward an Algorithmic Criticism_ (2011), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/book/18394)
 + Hannah Alpert-Abrams, "Machine Reading the *Primeros Libros*" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
 + Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
