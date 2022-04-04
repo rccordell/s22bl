@@ -279,19 +279,19 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 
 #### Core
 
++ learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
 + Jon Bois, ["What Football Will Look Like in the Future"](https://www.sbnation.com/a/17776-football/) (2017) _Note: this is a longer read so be prepared_
 + Amaranth Borsuk, The Book as Interface" from *The Book* (2018)
 + (play) _AI Dungeon_, [external link](https://play.aidungeon.io/main/home)
-+ Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/nissan-ariya-price-release-date-range-specs-2023)
 
 #### Penumbra
 
-+ learn about “Agrippa” (1992) at [“The Agrippa Files”](http://agrippa.english.ucsb.edu/)
 + Alan Galey, "The Enkindling Reciter: E-Books in the Bibliographical Imagination" (2012), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/488258)
 + Lori Emerson, "Indistinguishable from Magic: Invisible Interfaces and Digital Literature as Demystifier" from _Reading Writing Interfaces: From the Digital to the Bookbound_ (2014), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/10.5749/j.ctt6wr7dw)
 + Craig Mod, "Future Reading" (2015), [external link](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
 <!-- + Allie Alvis, "Volvelles: Moveable Book Machines!" (2020), [external link](https://www.youtube.com/watch?v=cdgFxuw5I8M&t=55s) -->
 + (read or listen), 99% Invisible, "The Universal Page" (2019), [external link](https://99percentinvisible.org/episode/the-universal-page/)
++ Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/blinking-cursor-history)
 
 #### Book Lab 11: Thoroughly Entwined
 
