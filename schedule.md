@@ -295,7 +295,7 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 
 #### Book Lab 11: Thoroughly Entwined
 
-
+	
 ### Week 14 | May 2 | Memory
 
 #### Core
