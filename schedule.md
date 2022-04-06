@@ -261,7 +261,7 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 + Stephen Wolfram, "Untangling the Tale of Ada Lovelace" (2015), [external link](https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/)
 + Benjamin M. Schmidt, "Do Humanists Need to Understand Algorithms?" from *Debates in Digital Humanities 2016*, [external link](http://dhdebates.gc.cuny.edu/debates/text/99) 
 + Katherine Bode, "Abstraction, Singularity, Textuality: The Equivalence of 'Close' and 'Distant' Reading" from _A World of Fiction_ (2018), [library link](https://www-jstor-org.proxy2.library.illinois.edu/stable/j.ctvdtpj1d.5?seq=3#metadata_info_tab_contents)
-+ browse the [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
++ Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 
 #### Penumbra 
 
@@ -270,7 +270,6 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 + Hannah Alpert-Abrams, "Machine Reading the *Primeros Libros*" (2016), [external link](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)
 + Annette Vee, "Introduction: Computer Programming as Literacy" from *Coding Literacy: How Computer Programming is Changing Writing* (2018), [library link](https://ieeexplore-ieee-org.proxy2.library.illinois.edu/document/8027008)
 + Matthew Lavin, "Why Digital Humanists Should Emphasize Situated Data over Capta" (2021), [external link](http://www.digitalhumanities.org/dhq/vol/15/2/000556/000556.html)
-+ Rachael Scarborough King, "The Scale of Genre" (2021), [library link](https://muse-jhu-edu.proxy2.library.illinois.edu/article/802091)
 
 #### Book Lab 10: Aye, Robot
 
@@ -292,6 +291,8 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 <!-- + Allie Alvis, "Volvelles: Moveable Book Machines!" (2020), [external link](https://www.youtube.com/watch?v=cdgFxuw5I8M&t=55s) -->
 + (read or listen), 99% Invisible, "The Universal Page" (2019), [external link](https://99percentinvisible.org/episode/the-universal-page/)
 + Sarah Well, "The Forgotten History of the Blinking Curso▒" (2021), [external link](https://www.inverse.com/innovation/blinking-cursor-history)
++ browse the [Electronic Literature Collection: Bots](http://collection.eliterature.org/3/collection-bots.html)
+
 
 #### Book Lab 11: Thoroughly Entwined
 
