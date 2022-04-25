@@ -24,3 +24,5 @@ The basic premise for today's lab report is simple: write in in Twine! You shoul
 + Adam Hammond, ["A Total Beginner’s Guide to Twine 2.1"](https://www.adamhammond.com/twineguide/)
 + Seth Kenlon, ["Advanced Twineage"](https://opensource.com/article/18/2/twine-gaming)
 + [Twine Resources](https://twinelab.net/twine-resources/#/)
++ ["Is This a Book" student Twine Project](https://www.dropbox.com/s/o3jxqg9tkgxk2cl/IsThisABook.html?dl=0)
++ [Camping game student final project](https://www.dropbox.com/s/skz287c2zgsr3b7/Student-Project-1.html?dl=0)
