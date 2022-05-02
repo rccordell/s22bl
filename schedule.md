@@ -311,6 +311,6 @@ Discussion Leaders: Elizabeth Koning & Ryan Dubnicek
 #### Penumbra
 
 + James A. Hodges, "Forensic Approaches to Evaluating Primary Sources in Internet History Research: Reconstructing Early Web-Based Archival Work (1989–1996)" (2021), [library link](https://www-tandfonline-com.proxy2.library.illinois.edu/doi/full/10.1080/24701475.2020.1784539)
-+ Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK
+<!-- + Matthew G. Kirschenbaum, "Archives Without Dust" from _Bitstreams_ (2021), GET LINK -->
 
 #### Book Reports
